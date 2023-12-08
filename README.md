@@ -29,6 +29,3 @@
 <a href="https://github.com/akaibiu/ak-blog-github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaibiu&repo=ak-blog-github&theme=buefy" />
 </a>
-<a href="https://github.com/akaibiu/akaibui.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaibiu&repo=akaibui.github.io&theme=buefy" />
-</a>
