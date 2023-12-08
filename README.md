@@ -26,9 +26,4 @@
 
 #### Top Repositories
 
-<a href="https://github.com/akaibiu/ak-blog-github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaibiu&repo=ak-blog-github&theme=buefy" />
-</a>
-<a href="[https://github.com/akaibiu/ak-blog-github](https://github.com/akaibiu/akai-uni)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaibiu&repo=akai-uni&theme=buefy" />
-</a>
+<a href="https://github.com/akaibiu/ak-blog-github"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaibiu&repo=ak-blog-github&theme=buefy" /></a><a href="[https://github.com/akaibiu/ak-blog-github](https://github.com/akaibiu/akai-uni)"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaibiu&repo=akai-uni&theme=buefy" /></a>
