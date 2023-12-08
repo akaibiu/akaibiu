@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm Xuenew. 🐘</h2>
+<h2 align="center">👋 Hey! I'm Akai. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
@@ -6,16 +6,15 @@
 
 - 🔭你好呀！💡
 
-- 🤔这里是忆阳的大象耳朵，会点小爬虫，想做一个有意思的前端工程师
+- 🤔这里是阿凯的github主页介绍，他是一个很有趣的菜菜的前端工程师!
 
-- ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
+- ⚡ Fun fact:喜欢看韩剧、玩LoL。喜欢Cadillac！
 
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuenew)
-[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1287986063@qq.com)
-[![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
+[![GitHub](https://github.com/akaibiu)](https://github.com/akaibiu)
+[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1494598731@qq.com)
+[![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_56083194?type=blog)
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
 
 
