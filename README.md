@@ -1,17 +1,19 @@
-<h2 align="center">👋 Hey! I'm Akai. 🐘</h2>
+<h2 align="center">👋 Hey! I'm Akai. 🤹</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
 <br />
 
-- 🔭你好呀！💡
+- 🔭 Halo！🌷
 
-- 🤔这里是阿凯的github主页介绍，他是一个很有趣的菜菜的前端工程师!
+- 🌼 This is the introduction to Akai's GitHub homepage. He is a very interesting front-end engineer for dishes!
 
-- ⚡ Fun fact:喜欢看韩剧、玩LoL。喜欢Cadillac！
+- 🍄 Fun fact: Watching Korean Drama、Play Leogue of legends and Falling in love with Cadillac!
 
+- 🎢 ChengDu city,SiChuan province.
 
-
+- 📓 <a href="https://salephine.asia"></a>
+  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akaibiu)
 ![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
