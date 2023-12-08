@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey! I'm Akai. 🤹</h2>
 <br />
-❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
+❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🏍️ 🎮 💻 🎶 🚗
 <br />
 <br />
 
@@ -12,9 +12,9 @@
 
 - 🎢 ChengDu city,SiChuan province.
 
-- 📓 ![My blog](https://salephine.asia)
+- 📓 <a href="https://salephine.asia">My blog.</a>
   
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akaibiu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akaibiu)
 ![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript) 
