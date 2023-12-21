@@ -13,6 +13,7 @@
 - 🎢 ChengDu city,SiChuan province.
 
 - 📓 <a href="https://salephine.asia">My blog.</a>
+反馈qq群(点击加群)：[531573361](https://jq.qq.com/?_wv=1027&k=vU2fKZZH)
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akaibiu)
 ![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
